@@ -6,7 +6,8 @@ OBSの内部ブラウザでYouTubeにログインできるツール🛠です
 <img src="./img/SS1.png" width="75%"/> 
 
 ## インストール方法
-[リリースページ](https://github.com/Kanna-mimimin/ObsBrowserYouTubeLoginTool/releases)から最新版の「ObsBrowserYouTubeLoginTool-Ver〇.〇.〇.zip」をダウンロードしてお好みの場所に展開するだけ！
+[リリースページ](https://github.com/Kanna-mimimin/ObsBrowserYouTubeLoginTool/releases)から最新版の「ObsBrowserYouTubeLoginTool-Ver〇.〇.〇.zip」をダウンロードしてお好みの場所に展開するだけ！  
+<img src="./img/Release.png" width="75%"/>  
 
 ## 使い方🔰
 1. 事前にEdgeまたはChromeでYouTubeにログインしておく🔑
