@@ -12,6 +12,7 @@
     <Company />
     <Authors>Kanna</Authors>
     <Description></Description>
+    <FileVersion>1.0.0</FileVersion>
   </PropertyGroup>
   <ItemGroup>
     <None Remove="Icon\NekoKan.ico" />
