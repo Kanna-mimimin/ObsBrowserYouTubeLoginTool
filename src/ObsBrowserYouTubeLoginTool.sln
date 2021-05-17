@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31025.194
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObsBrowserYouTubeLoginTool", "ObsBrowserYouTubeLoginTool\ObsBrowserYouTubeLoginTool.csproj", "{ED131267-7F6B-41E7-8E61-9CC3E2406733}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObsBrowserYouTubeLoginTool", "ObsBrowserYouTubeLoginTool\ObsBrowserYouTubeLoginTool.csproj", "{ED131267-7F6B-41E7-8E61-9CC3E2406733}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CookieManager", "CookieManager\CookieManager.csproj", "{B8235D53-4763-4B51-A8E5-58870C5B3174}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{ED131267-7F6B-41E7-8E61-9CC3E2406733}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED131267-7F6B-41E7-8E61-9CC3E2406733}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED131267-7F6B-41E7-8E61-9CC3E2406733}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8235D53-4763-4B51-A8E5-58870C5B3174}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8235D53-4763-4B51-A8E5-58870C5B3174}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8235D53-4763-4B51-A8E5-58870C5B3174}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8235D53-4763-4B51-A8E5-58870C5B3174}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
